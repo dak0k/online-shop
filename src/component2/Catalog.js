@@ -1,7 +1,8 @@
 function Catalog() 
 {
     return ( <div>
-        Catalog
+        Catalog 
+        <h1>Meirhan</h1>
     </div>)
 }
 
